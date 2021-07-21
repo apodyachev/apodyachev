@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apodyachev
 - 👀 I’m interested in Ruby on Rails, Vue.js, Express.js
-- 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on Ruby on Rails
+- 🌱 I’m currently learning Express.js
+- 💞️ I’m looking to collaborate on Express.js, Ruby on Rails, and anything interesting
 - 📫 How to reach me on email alexastro@cox.net
 
 <!---
