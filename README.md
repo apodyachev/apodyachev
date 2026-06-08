@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apodyachev
 - 👀 I’m interested in JVM Langauges, Science, and Programming in general
-- 🌱 I’m currently learning Spring Boot and Flutter
+- 🌱 I’m currently learning Spring Boot and Flutter, and AI
 - 💞️ I’m looking to collaborate on Vue.js, Java, and anything interesting
 - 📫 How to reach me on email alexastro@cox.net
 
